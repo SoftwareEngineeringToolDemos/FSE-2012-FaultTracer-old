@@ -7,6 +7,6 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [A Video of the Tool](https://www.youtube.com/watch?v=rKhUdm1Dhu0)
 
 In this repository, for FaultTracer you will find:
-* :white_check_mark: Source code (available)
+* :white_check_mark: [Source code](https://github.com/SoftwareEngineeringToolDemos/FSE-2012-FaultTracer/tree/master/FaultTracer-OOPSLA) (available)
 
 This repository was constructed by [Sajal Garg](https://github.com/gargsajal9) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr. Lingming Zhang and Shiyang Cheng for their help in establishing this repository.
